@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Building+Scalable+Web+Applications;%F0%9F%92%A1+Turning+Ideas+Into+Digital+Reality;%F0%9F%8E%AF+Clean+Code+%7C+Best+Practices+%7C+Innovation" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%9A%80+Building+Scalable+Full-Stack+Applications;%F0%9F%92%A1+15%2B+Production+Projects+Shipped;%F0%9F%8E%AF+Clean+Code+%7C+Best+Practices+%7C+Innovation;%F0%9F%94%A5+WordPress+%7C+React+%7C+Node.js+%7C+Docker" alt="Typing SVG" /></a>
 </div>
 
 <!-- Profile Views & Followers -->
@@ -18,8 +18,8 @@
     <img src="https://komarev.com/ghpvc/?username=alipilechiha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="https://github.com/alipilechiha?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Check%20Them%20Out-blue?style=flat&logo=github" alt="Repos"/>
+  <a href="https://mybajet.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-mybajet.ir-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
 
@@ -31,16 +31,23 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```typescript
-const ali = {
-    pronouns: "He" | "Him",
+const ali: Developer = {
+    name: "Ali Pilechiha",
     location: "Iran 🇮🇷",
     role: "Full-Stack Developer & Software Engineer",
-    currentFocus: "Building scalable web applications with modern technologies",
-    askMeAbout: [
-        "Web Development", "API Design", "System Architecture",
-        "React Ecosystem", "Node.js", "Python", "DevOps"
+    company: "Bajet (mybajet.ir)",
+    experience: "15+ production projects shipped",
+    specialties: [
+        "Full-Stack Web Applications",
+        "WordPress Plugin Architecture",
+        "Real-Time Systems & Chat",
+        "Telegram & Bale Bot Development",
+        "Browser Extension Development",
+        "HTML5 Game Development",
+        "REST API Design & Security",
+        "Microservices & Docker"
     ],
-    funFact: "I debug with console.log and I'm not ashamed of it 😄",
+    currentFocus: "Building scalable fintech platforms & SaaS products",
     motto: "Code is like humor. When you have to explain it, it's bad."
 };
 ```
@@ -50,33 +57,169 @@ const ali = {
 <td width="50%" valign="top">
 
 ### 🔭 What I'm Working On
-- Building **production-grade** full-stack applications
-- Architecting **scalable microservices** with NestJS & Next.js
-- Developing **real-time** features with Socket.io & Redis
+- **GiveCard** — Full-stack gift card platform (Next.js + Prisma + Docker)
+- **Bajet Ecosystem** — Suite of 10+ WordPress plugins for fintech
+- **Hamishe** — Chrome extension with 10K+ features (New Tab dashboard)
+- **Real-time chat systems** with WebSocket & voice messaging
 
 ### 🌱 What I'm Learning
-- Advanced **System Design** patterns
-- **Cloud-native** architectures
-- **AI/ML** integration in web apps
+- Advanced **System Design** & distributed architectures
+- **AI/ML** integration in web applications
+- **Cloud-native** deployment strategies
 
 </td>
 <td width="50%" valign="top">
 
 ### 💡 What I Bring to the Table
-- **5+ years** of hands-on development experience
-- Deep expertise in **React/Next.js** ecosystem
-- Strong **backend** skills with Node.js, NestJS, Python
-- Experience with **Docker**, CI/CD, and DevOps
-- Passion for **clean code** and best practices
+- **15+ production projects** shipped and running
+- Full-stack expertise: **React/Next.js** + **Node.js/NestJS** + **PHP/WordPress**
+- Built **10+ WordPress plugins** from scratch (page builders, live chat, 2FA, games, marketplaces)
+- Developed **Telegram & Bale bots** with admin panels
+- Created **Chrome extensions** with 10+ integrated features
+- Experience with **Docker**, CI/CD, Nginx, and DevOps
+- Passion for **clean architecture** and **security best practices**
 
 ### ⚡ Fun Facts
-- 🎮 Gamer at heart (Xbox & Steam)
+- 🎮 Built 4 HTML5 games as WordPress plugins
 - ☕ Powered by coffee and curiosity
-- 🧩 Love solving complex problems
+- 🧩 Love turning complex problems into elegant solutions
 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎁 GiveCard Platform
+> Full-stack gift card e-commerce platform
+- **Frontend:** Next.js 16, React 19, TailwindCSS, Radix UI, Framer Motion
+- **Backend:** Next.js API Routes, Prisma ORM, MySQL
+- **Admin Panel:** Separate admin dashboard
+- **Infrastructure:** Docker, Nginx, Redis
+- **Auth:** NextAuth.js, bcrypt, Zod validation
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Hamishe — Chrome Extension
+> Modern New Tab dashboard with 10+ features
+- Persian/Jalali calendar & holidays
+- Live weather with geolocation
+- Scientific calculator
+- Currency & date converter
+- Bookmarks manager
+- Inspirational quotes engine
+- **Tech:** Manifest V3, Service Workers, Chrome APIs
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Momtaz Loan Bot
+> Smart Telegram & Bale bot for loan calculations
+- Dual-platform: **Telegram** + **Bale** messenger
+- Advanced loan calculator with multiple periods
+- Beautiful admin panel with dashboard & analytics
+- User tracking, activity logs, pagination
+- **Tech:** Node.js, Express, MySQL, EJS, node-telegram-bot-api
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 AIAP Authenticator
+> 2FA app like Google Authenticator — as a WordPress plugin
+- TOTP generation (RFC 6238) with HMAC-SHA1/256/512
+- **AES-256-GCM** encryption for secret storage
+- Full **PWA** — installable, works offline
+- QR Code scanning, WebAuthn (biometric)
+- Rate limiting, audit logs, backup/restore
+- **Tech:** PHP, REST API, Service Workers, Web Crypto API
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Bajet LiveChat
+> Professional real-time live chat system
+- Real-time messaging with **WebSocket**
+- Voice messages, file sharing, emoji support
+- Typing indicators & read receipts
+- Multi-admin support with internal routing
+- Full RTL/Persian support
+- **Tech:** PHP, REST API, WebSocket, WordPress
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 AIAP Task Manager
+> Project management system (Trello/Notion-like)
+- Kanban boards with drag & drop
+- Task assignments, labels, due dates
+- Activity timeline & notifications
+- Multi-user collaboration
+- **Tech:** PHP, WordPress, AJAX, REST API
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏪 BajetMarket (Central + Receiver)
+> Multi-vendor marketplace with product sync
+- **Central:** Aggregates products from multiple WooCommerce stores
+- **Receiver:** Auto-syncs products via background processing
+- REST API communication between stores
+- Database migrations, logging, variation support
+- **Tech:** PHP, WooCommerce, REST API, Background Processing
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 HTML5 Game Suite (4 Games)
+> Professional WordPress game plugins
+- **🏍️ Moto Racer** — 3D-like racing with nitro, achievements, particle effects
+- **� Neon Star** — Arcade game with 30+ power-ups, boss fights, neon graphics
+- **🍄 Super Mario** — Classic platformer with physics engine & leaderboards
+- **🎡 Spinning Wheel** — Prize wheel with admin panel & one-spin-per-user
+- **Tech:** HTML5 Canvas, Web Audio API, PHP, WordPress
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 Bajet Universal API
+> Comprehensive REST API for any WordPress site
+- Supports all content types (posts, pages, products, media, etc.)
+- 64-char security key authentication
+- Rate limiting & failed attempt logging
+- Per-endpoint toggle from admin panel
+- **Tech:** PHP, OOP Architecture, WordPress REST API
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ More WordPress Plugins
+- **📄 Bajet Page Builder** — Full WordPress page builder (v7.2.6)
+- **⚙️ Minimod Admin** — WP admin redesign + Google Analytics integration
+- **🎯 BajetPlus** — Financial services landing page builder
+- **🏁 Bajet Journey** — SVG-animated competition roadmap with scroll effects
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -87,8 +230,8 @@ const ali = {
 ### 👨‍💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -104,6 +247,7 @@ const ali = {
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🔧 Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -111,6 +255,7 @@ const ali = {
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
@@ -156,6 +301,25 @@ const ali = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 📈 Project Stats
+
+<div align="center">
+
+| Category | Count | Highlights |
+|:--------:|:-----:|:-----------|
+| 🌐 **Full-Stack Apps** | 1 | GiveCard (Next.js + Docker + Prisma) |
+| 🔌 **WordPress Plugins** | 12 | Page Builder, LiveChat, 2FA, Marketplace, Games, API |
+| 🤖 **Bots** | 1 | Telegram + Bale dual-platform bot |
+| 🧩 **Browser Extensions** | 1 | Chrome New Tab with 10+ features |
+| 🎮 **HTML5 Games** | 4 | Racing, Arcade, Platformer, Prize Wheel |
+| 🔒 **Security Tools** | 1 | 2FA Authenticator with AES-256-GCM |
+| 💬 **Real-Time Systems** | 1 | WebSocket live chat with voice |
+| **Total** | **15+** | **Production-ready projects** |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -184,7 +348,15 @@ const ali = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+💼 **Open to freelance projects, collaborations, and exciting opportunities!**
+
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/alipilechiha" target="_blank">
@@ -201,6 +373,10 @@ const ali = {
   &nbsp;
   <a href="mailto:ali.pilechiha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://mybajet.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-mybajet.ir-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
 
@@ -222,6 +398,10 @@ const ali = {
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful-yellow?style=for-the-badge" alt="Thanks"/>
+</div>
 
 <!-- Footer -->
 <div align="center">
