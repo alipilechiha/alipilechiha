@@ -18,8 +18,8 @@
     <img src="https://komarev.com/ghpvc/?username=alipilechiha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="https://mybajet.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Website-mybajet.ir-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
+  <a href="https://aiap.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-aiap.ir-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
 
@@ -35,7 +35,7 @@ const ali: Developer = {
     name: "Ali Pilechiha",
     location: "Iran 🇮🇷",
     role: "Full-Stack Developer & Software Engineer",
-    company: "Bajet (mybajet.ir)",
+    company: "AIAP (aiap.ir)",
     experience: "15+ production projects shipped",
     specialties: [
         "Full-Stack Web Applications",
@@ -375,8 +375,8 @@ const ali: Developer = {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://mybajet.ir" target="_blank">
-    <img src="https://img.shields.io/badge/Website-mybajet.ir-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  <a href="https://aiap.ir" target="_blank">
+    <img src="https://img.shields.io/badge/Website-aiap.ir-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
 
