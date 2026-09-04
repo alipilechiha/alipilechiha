@@ -58,10 +58,9 @@ const ali: Developer = {
 <td width="50%" valign="top">
 
 ### What I'm Working On
-- **Simotech / Qaff** — [Bajet Market](https://www.bajetmarket.ir), [MyTripay](https://mytripay.com/en/), [Jetpay](https://jetpay.mybajet.ir/fa/), [Bajet blog](https://blog.mybajet.ir/), Bale bot `@mybajet_bot`
+- **Simotech / Qaff** — [Bajet Market](https://www.bajetmarket.ir), [MyTripay](https://mytripay.com/en/), [Jetpay](https://jetpay.mybajet.ir/fa/), [Bajet blog](https://blog.mybajet.ir/), [Bajet bot on Bale](https://web.bale.ai/chat?uid=1127363680)
 - **GiveCard** *(Simotech, not public yet)* — Next.js + Prisma + Docker
 - **AIAP** — personal studio: [aiap.ir](https://aiap.ir)
-- **Hamishe** *(in development, not published)* — Persian New Tab
 
 ### Daily AI stack
 **Cursor** is the environment: architecture, folder trees, tech choices, coding agents. Also ChatGPT, Claude, Grok, Perplexity, Codex, Windsurf, Devin, VS Code. Lovable / Bolt / Emergent for prototypes, then harden in Cursor.
@@ -96,7 +95,7 @@ const ali: Developer = {
 | MyTripay | Live · Simotech | [mytripay.com](https://mytripay.com/en/) |
 | Jetpay | Live · Simotech | [jetpay.mybajet.ir](https://jetpay.mybajet.ir/fa/) |
 | Bajet blog | Live · Simotech | [blog.mybajet.ir](https://blog.mybajet.ir/) |
-| Bajet bot (Bale) | Live · Simotech | `@mybajet_bot` |
+| Bajet bot (Bale) | Live · Simotech | [Open chat](https://web.bale.ai/chat?uid=1127363680) |
 | Tehran Speaker | Live | [tehranspeaker.com](https://www.tehranspeaker.com) |
 | Multikala | Live | [multikala.com](https://www.multikala.com) |
 | AIAP hub | Live · personal | [aiap.ir](https://aiap.ir) |
@@ -106,7 +105,7 @@ const ali: Developer = {
 | **AIAP Font** | **Chrome Web Store** | [Install](https://chromewebstore.google.com/detail/aiap-font/bkkidmfmmolehbjjckjejobnbjikmiaf) |
 | **AIAP Design to HTML** | **Figma Community** | [Plugin](https://www.figma.com/community/plugin/1650776840837266092/aiap-design-to-html) |
 
-*Not published:* Hamishe (New Tab) · GiveCard (Simotech, early stage)
+*Not published:* GiveCard (Simotech, early stage)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -228,6 +227,7 @@ const ali: Developer = {
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-%239655AA.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![BullMQ](https://img.shields.io/badge/BullMQ-000000?style=for-the-badge)
 
 ### Data & infra
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -237,6 +237,7 @@ const ali: Developer = {
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 
 ### Product, SEO & AI workflow
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -259,10 +260,10 @@ const ali: Developer = {
 | Fintech (Simotech) | **Bajet Market** Angular 18 + Express/Mongo/Redis/ES/S3 — **live**. Jetpay = BajetPay WC gateway. WP: Central v3, Page Builder v7.2.7. MyTripay, blog, Bale bot. GiveCard — **WIP** |
 | WordPress (Bajet) | BajetPay 2.1 (AES-256-GCM, Blocks/HPOS), Central (multi-store ingest + Searchia), Page Builder (stores/products/story/map/chat) |
 | Personal studio (AIAP) | Hub, task, 2FA, One, Font (Web Store), Design-to-HTML (Figma) |
-| E-commerce | Tehran Speaker rebuild, Multikala |
+| Tehran Speaker | OpenCart → custom WooCommerce · chat / careers / tools |
+| Multikala | E-commerce technical lead · still active remote |
 | WordPress | Custom plugins beyond Bajet: LiveChat, API, Journey, Plus, Minimod, HTML5 games |
-| In development | Hamishe New Tab — **not published** |
-| Bots | Momtaz (Telegram + Bale) |
+| Bots | Bajet on Bale · Momtaz (Telegram + Bale) |
 
 </div>
 
@@ -317,6 +318,10 @@ const ali: Developer = {
   &nbsp;
   <a href="https://t.me/alipilechiha" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://web.bale.ai/@alipilechiha" target="_blank">
+    <img src="https://img.shields.io/badge/Bale-00A884.svg?style=for-the-badge&logoColor=white" alt="Bale"/>
   </a>
   &nbsp;
   <a href="mailto:ali.pilechiha@gmail.com" target="_blank">
