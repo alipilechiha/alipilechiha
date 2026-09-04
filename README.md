@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=720&height=110&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+Simotech+Qaff+%2B+AIAP;%F0%9F%92%A1+Bajet+Market+%7C+Angular+18+%2B+Express+%2B+MongoDB;%F0%9F%8E%AF+React+%7C+Node+%7C+PHP%2FWP+%7C+PageSpeed+%26+SEO;%F0%9F%94%A5+Architecture+%26+agents+in+Cursor+every+day" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=720&height=110&lines=%F0%9F%9A%80+Full-Stack+%7C+Simotech+Product+%2F+Qaf+%2B+AIAP;%F0%9F%92%A1+Bajet+Market+%7C+Angular+18+%2B+Express+%2B+MongoDB;%F0%9F%8E%AF+React+%7C+Node+%7C+PHP%2FWP+%7C+PageSpeed+%26+SEO;%F0%9F%94%A5+Architecture+%26+agents+in+Cursor+every+day" alt="Typing SVG" /></a>
 </div>
 
 <!-- Profile Views & Followers -->
@@ -38,7 +38,7 @@ const ali: Developer = {
   name: "Ali Pilechiha",
   location: "Tehran, Iran",
   role: "Full-Stack Engineer",
-  company: "Simotech (Qaff) · AIAP studio",
+  company: "Simotech (Product / Qaf) · AIAP studio",
   workflow: "AI-native in Cursor — architecture, repo tree, stack, agents, then my review",
   ships: [
     "Bajet Market (Angular 18 + Express/TS API)",
@@ -58,7 +58,7 @@ const ali: Developer = {
 <td width="50%" valign="top">
 
 ### What I'm Working On
-- **Simotech / Qaff** — [Bajet Market](https://www.bajetmarket.ir), [MyTripay](https://mytripay.com/en/), [Jetpay](https://jetpay.mybajet.ir/fa/), [Bajet blog](https://blog.mybajet.ir/), [Bajet bot on Bale](https://web.bale.ai/chat?uid=1127363680)
+- **Simotech / Product (Qaf)** — [Bajet Market](https://www.bajetmarket.ir), [MyTripay](https://mytripay.com/en/), [Jetpay](https://jetpay.mybajet.ir/fa/), [Bajet blog](https://blog.mybajet.ir/), [Bajet bot on Bale](https://web.bale.ai/chat?uid=1127363680)
 - **GiveCard** *(Simotech, not public yet)* — Next.js + Prisma + Docker
 - **AIAP** — personal studio: [aiap.ir](https://aiap.ir)
 
@@ -118,7 +118,7 @@ const ali: Developer = {
 <td width="50%" valign="top">
 
 ### Bajet Market
-> BNPL / price-comparison marketplace — Simotech / Qaff · **live**
+> BNPL / price-comparison marketplace — Simotech / Product (Qaf) · **live**
 - **Frontend:** Angular 18 SPA, Bootstrap 5, Leaflet maps, FA i18n, admin panel, Docker + PM2
 - **Backend:** Express + TypeScript — MongoDB, Redis, Elasticsearch, BullMQ, JWT, S3 (MinIO / RustFS)
 - Ingest workers, SEO (sitemap/robots), GA / GTM / Clarity on production
