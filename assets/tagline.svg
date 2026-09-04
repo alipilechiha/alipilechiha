@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="90" viewBox="0 0 720 90">
+  <rect width="720" height="90" fill="#0d1117"/>
+  <text x="360" y="32" text-anchor="middle" fill="#6AD3F7" font-family="Consolas, monospace" font-size="15" font-weight="600">Full-Stack | Simotech Product / Qaf + AIAP</text>
+  <text x="360" y="56" text-anchor="middle" fill="#6AD3F7" font-family="Consolas, monospace" font-size="15" font-weight="600">Bajet Market | Angular 18 + Express + MongoDB</text>
+  <text x="360" y="80" text-anchor="middle" fill="#6AD3F7" font-family="Consolas, monospace" font-size="15" font-weight="600">React | Node | PHP/WP | PageSpeed &amp; SEO</text>
+</svg>

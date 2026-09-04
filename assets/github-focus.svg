@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="195" viewBox="0 0 480 195">
+  <rect width="480" height="195" rx="8" fill="#0D1117"/>
+  <text x="24" y="36" fill="#6AD3F7" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Current focus</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#FFFFFF">
+    <text x="24" y="72">Simotech · Product / Qaf</text>
+    <text x="24" y="98" fill="#c9d1d9">Bajet Market · Angular 18 + Express</text>
+    <text x="24" y="124" fill="#c9d1d9">AIAP studio · aiap.ir</text>
+    <text x="24" y="150" fill="#c9d1d9">Freelance · remote worldwide after hours</text>
+  </g>
+  <text x="24" y="178" fill="#3DDC84" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">Shipping daily · AI-native workflow</text>
+</svg>

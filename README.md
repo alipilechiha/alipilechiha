@@ -1,28 +1,23 @@
-<!-- Header Animation -->
+<!-- Header (static assets in this repo — loads via GitHub, not Vercel) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ali%20Pilechiha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20AI-native%20(Cursor)&descSize=18&descAlignY=52&descAlign=50" width="100%"/>
+  <img src="./assets/header-banner.svg" width="100%" alt="Ali Pilechiha — Full-Stack Engineer | AI-native"/>
 </div>
 
-<!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=720&height=110&lines=%F0%9F%9A%80+Full-Stack+%7C+Simotech+Product+%2F+Qaf+%2B+AIAP;%F0%9F%92%A1+Bajet+Market+%7C+Angular+18+%2B+Express+%2B+MongoDB;%F0%9F%8E%AF+React+%7C+Node+%7C+PHP%2FWP+%7C+PageSpeed+%26+SEO;%F0%9F%94%A5+Architecture+%26+agents+in+Cursor+every+day" alt="Typing SVG" /></a>
+  <img src="./assets/tagline.svg" width="720" alt="Full-Stack | Simotech Product / Qaf + AIAP"/>
 </div>
 
-<!-- Profile Views & Followers -->
+<!-- Followers & links (shields.io) -->
 <div align="center">
   <a href="https://github.com/alipilechiha?tab=followers">
     <img src="https://img.shields.io/github/followers/alipilechiha?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
   &nbsp;
-  <a href="https://github.com/alipilechiha">
-    <img src="https://komarev.com/ghpvc/?username=alipilechiha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  &nbsp;
-  <a href="https://aiap.ir" target="_blank">
+  <a href="https://aiap.ir" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-aiap.ir-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/alipilechiha/" target="_blank">
+  <a href="https://www.linkedin.com/in/alipilechiha/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-alipilechiha-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -39,7 +34,7 @@ const ali: Developer = {
   location: "Tehran, Iran",
   role: "Full-Stack Engineer",
   company: "Simotech (Product / Qaf) · AIAP studio",
-  workflow: "AI-native in Cursor — architecture, repo tree, stack, agents, then my review",
+  workflow: "AI-native — architecture, repo tree, stack, agents, then my review",
   ships: [
     "Bajet Market (Angular 18 + Express/TS API)",
     "Custom WordPress plugins & WooCommerce gateways",
@@ -63,7 +58,7 @@ const ali: Developer = {
 - **AIAP** — personal studio: [aiap.ir](https://aiap.ir)
 
 ### Daily AI stack
-**Cursor** is the environment: architecture, folder trees, tech choices, coding agents. Also ChatGPT, Claude, Grok, Perplexity, Codex, Windsurf, Devin, VS Code. Lovable / Bolt / Emergent for prototypes, then harden in Cursor.
+AI-native every day: architecture, folder trees, tech choices, coding agents, then my review. ChatGPT, Claude, Grok, Perplexity, Codex, Windsurf, Devin, VS Code. Lovable / Bolt / Emergent for prototypes, then harden and ship.
 
 </td>
 <td width="50%" valign="top">
@@ -242,7 +237,7 @@ const ali: Developer = {
 ### Product, SEO & AI workflow
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI--native-6AD3F7?style=for-the-badge)
 ![Chrome](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -269,29 +264,18 @@ const ali: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## GitHub Analytics
+## Snapshot cards
 
+<!-- Static SVGs hosted in this repo (Iran-friendly: GitHub raw, no Vercel widgets) -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alipilechiha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=alipilechiha&theme=tokyonight&hide_border=true&background=0D1117&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alipilechiha&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&layout=donut-vertical&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="./assets/github-stats.svg" alt="GitHub Stats"/>
+  <img width="49%" src="./assets/github-focus.svg" alt="Current focus"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alipilechiha&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alipilechiha&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%"/>
+  <img width="40%" src="./assets/github-langs.svg" alt="Top Languages"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -336,17 +320,7 @@ const ali: Developer = {
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alipilechiha/alipilechiha/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alipilechiha/alipilechiha/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/alipilechiha/alipilechiha/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
+  <img src="./assets/quote.svg" width="800" alt="Marvin Minsky quote"/>
 </div>
 
 <br/>
@@ -356,5 +330,5 @@ const ali: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="./assets/footer-wave.svg" width="100%" alt=""/>
 </div>
