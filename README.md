@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=110&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+Simotech+Qaff+%2B+AIAP;%F0%9F%92%A1+WordPress+plugins+%26+themes+from+scratch;%F0%9F%8E%AF+React+%7C+Node.js+%7C+PHP+%7C+PageSpeed+%26+SEO;%F0%9F%94%A5+Architecture+%26+agents+in+Cursor+every+day" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=720&height=110&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+Simotech+Qaff+%2B+AIAP;%F0%9F%92%A1+Bajet+Market+%7C+Angular+18+%2B+Express+%2B+MongoDB;%F0%9F%8E%AF+React+%7C+Node+%7C+PHP%2FWP+%7C+PageSpeed+%26+SEO;%F0%9F%94%A5+Architecture+%26+agents+in+Cursor+every+day" alt="Typing SVG" /></a>
 </div>
 
 <!-- Profile Views & Followers -->
@@ -41,13 +41,13 @@ const ali: Developer = {
   company: "Simotech (Qaff) · AIAP studio",
   workflow: "AI-native in Cursor — architecture, repo tree, stack, agents, then my review",
   ships: [
-    "Custom WordPress plugins & themes",
-    "Fintech / e-commerce web products",
+    "Bajet Market (Angular 18 + Express/TS API)",
+    "Custom WordPress plugins & WooCommerce gateways",
+    "Fintech / marketplace / BNPL products",
     "PWAs, Chrome extensions, Figma plugins",
-    "PageSpeed / Core Web Vitals & Screaming Frog SEO",
-    "Real-time chat, bots, 2FA / Web Crypto"
+    "PageSpeed / Core Web Vitals & Screaming Frog SEO"
   ],
-  currentFocus: "Bajet ecosystem at Simotech + personal products on aiap.ir",
+  currentFocus: "Bajet Market + BajetPay / Central / Page Builder at Simotech · AIAP studio",
   freelance: "Fully remote, worldwide, outside company hours",
   motto: "Code is like humor. When you have to explain it, it's bad."
 };
@@ -70,12 +70,12 @@ const ali: Developer = {
 <td width="50%" valign="top">
 
 ### What I Ship
-- Custom **WordPress plugins and themes** from scratch (any capability)
+- **Bajet Market** full-stack: Angular 18 SPA + Express/TypeScript API (MongoDB, Redis, Elasticsearch, S3)
+- Custom **WordPress plugins and themes** from scratch — Page Builder, marketplace central, payment gateways
 - **PageSpeed / Core Web Vitals** and **Screaming Frog** technical SEO on production sites
-- Full-stack: **React / Next.js** + **Node.js** + **PHP / WooCommerce**
-- Published **Chrome** and **Figma** extensions
-- Telegram + Bale bots, WebSocket live chat, TOTP/AES-256-GCM 2FA
-- Docker, Nginx, MySQL, Redis
+- Full-stack: **Angular / React / Next.js** + **Node.js** + **PHP / WooCommerce**
+- Published **Chrome** and **Figma** extensions · bots · WebSocket chat · AES-256-GCM / TOTP
+- Docker, Nginx, PM2, MySQL, Redis, MinIO / RustFS
 
 ### Fun facts
 - 4 HTML5 games as WordPress plugins
@@ -92,7 +92,7 @@ const ali: Developer = {
 
 | Product | Status | Link |
 |:--------|:-------|:-----|
-| Bajet Market | Live · Simotech | [bajetmarket.ir](https://www.bajetmarket.ir) |
+| Bajet Market | Live · Simotech | [bajetmarket.ir](https://www.bajetmarket.ir) — Angular 18 + Express/TS |
 | MyTripay | Live · Simotech | [mytripay.com](https://mytripay.com/en/) |
 | Jetpay | Live · Simotech | [jetpay.mybajet.ir](https://jetpay.mybajet.ir/fa/) |
 | Bajet blog | Live · Simotech | [blog.mybajet.ir](https://blog.mybajet.ir/) |
@@ -119,12 +119,25 @@ const ali: Developer = {
 <td width="50%" valign="top">
 
 ### Bajet Market
-> BNPL marketplace — Simotech / Qaff · **live**
-- Storefront, merchant/acceptor flows, Figma → WordPress/WooCommerce
-- Custom plugins: central/receiver sync, page builder, BajetPay
+> BNPL / price-comparison marketplace — Simotech / Qaff · **live**
+- **Frontend:** Angular 18 SPA, Bootstrap 5, Leaflet maps, FA i18n, admin panel, Docker + PM2
+- **Backend:** Express + TypeScript — MongoDB, Redis, Elasticsearch, BullMQ, JWT, S3 (MinIO / RustFS)
+- Ingest workers, SEO (sitemap/robots), GA / GTM / Clarity on production
 - [bajetmarket.ir](https://www.bajetmarket.ir)
 
 </td>
+<td width="50%" valign="top">
+
+### Bajet WP plugin suite
+> Production plugins powering Jetpay + merchant sync · Simotech
+- **BajetPay WooCommerce Gateway v2.1** — credit payments, AES-256-GCM secrets, Blocks + HPOS, product sync
+- **Bajetmarket Central v3** — multi-store product ingest (REST), Searchia, image proxy/localizer, auto-categorize
+- **Bajet Page Builder v7.2.7** — stores/products archives, story, map, chat widget, credit types, CSP headers
+- [jetpay.mybajet.ir](https://jetpay.mybajet.ir/fa/)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### AIAP Font
@@ -134,8 +147,6 @@ const ali: Developer = {
 - [Web Store](https://chromewebstore.google.com/detail/aiap-font/bkkidmfmmolehbjjckjejobnbjikmiaf) · [font.aiap.ir](https://font.aiap.ir)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### AIAP Design to HTML
@@ -144,6 +155,8 @@ const ali: Developer = {
 - [Figma Community](https://www.figma.com/community/plugin/1650776840837266092/aiap-design-to-html)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### AIAP Authenticator
@@ -152,22 +165,12 @@ const ali: Developer = {
 - [pass.aiap.ir](https://pass.aiap.ir)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### AIAP One
-> End-to-end encrypted one-time links
-- AES-GCM in the browser; server never sees content
-- [one.aiap.ir](https://one.aiap.ir)
-
-</td>
-<td width="50%" valign="top">
-
-### AIAP Task Manager
-> Kanban PWA (Trello/Notion-like)
-- Boards, assignments, Jalali, notifications
-- [task.aiap.ir](https://task.aiap.ir)
+### AIAP One + Task Manager
+> Personal studio products · **live**
+- [one.aiap.ir](https://one.aiap.ir) — E2E one-time links (AES-GCM in browser)
+- [task.aiap.ir](https://task.aiap.ir) — Kanban PWA (boards, Jalali, notifications)
 
 </td>
 </tr>
@@ -183,28 +186,10 @@ const ali: Developer = {
 </td>
 <td width="50%" valign="top">
 
-### Bajet LiveChat + plugin suite
-> Production WordPress for fintech
-- WebSocket chat: voice, files, RTL, multi-admin
-- Page Builder v7.2+, Universal API, Journey, Plus, Minimod Admin
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Momtaz Loan Bot
-> Telegram + Bale
-- Loan calculator, admin dashboard, analytics
-- Node.js, Express, MySQL, EJS
-
-</td>
-<td width="50%" valign="top">
-
-### HTML5 Game Suite
-> WordPress plugins
-- Moto Racer · Neon Star · Super Mario-style · Spinning Wheel
-- Canvas, Web Audio, PHP
+### More WordPress / bots
+> Production + personal
+- LiveChat (WebSocket, voice, RTL), Universal API, Journey, Plus, Minimod
+- HTML5 game plugins · Momtaz loan bot (Telegram + Bale)
 
 </td>
 </tr>
@@ -230,6 +215,7 @@ const ali: Developer = {
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
@@ -247,6 +233,7 @@ const ali: Developer = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
@@ -269,10 +256,11 @@ const ali: Developer = {
 
 | Category | Notes |
 |:---------|:------|
-| Fintech (Simotech) | Bajet Market, MyTripay, Jetpay, blog, Bale bot — **live**. GiveCard — **WIP, not public** |
+| Fintech (Simotech) | **Bajet Market** Angular 18 + Express/Mongo/Redis/ES/S3 — **live**. Jetpay = BajetPay WC gateway. WP: Central v3, Page Builder v7.2.7. MyTripay, blog, Bale bot. GiveCard — **WIP** |
+| WordPress (Bajet) | BajetPay 2.1 (AES-256-GCM, Blocks/HPOS), Central (multi-store ingest + Searchia), Page Builder (stores/products/story/map/chat) |
 | Personal studio (AIAP) | Hub, task, 2FA, One, Font (Web Store), Design-to-HTML (Figma) |
 | E-commerce | Tehran Speaker rebuild, Multikala |
-| WordPress | 10+ custom plugins: builder, live chat, API, marketplace sync, games |
+| WordPress | Custom plugins beyond Bajet: LiveChat, API, Journey, Plus, Minimod, HTML5 games |
 | In development | Hamishe New Tab — **not published** |
 | Bots | Momtaz (Telegram + Bale) |
 
